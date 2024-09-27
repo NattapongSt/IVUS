@@ -1,2 +1,2 @@
 # Faster-R-CNN
-Detect Lumen
+Intravascular ultrasound (IVUS) images detect Lumen
