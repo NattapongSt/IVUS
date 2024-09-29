@@ -1,2 +1,3 @@
 # Faster-R-CNN
-Intravascular ultrasound (IVUS) images detect Lumen
+Object detection project.
+Detect Lumen from Intravascular ultrasound (IVUS) images.
